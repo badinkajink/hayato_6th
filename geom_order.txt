@@ -1,0 +1,389 @@
+Upgrade: 0 total_strength_gain: 1.0
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (0 -> 1), nprop: 0.354, cprop: 0.336, strength_increase: 0.0184, cost:  350, ratio: 0.0001
+Upgrade #:   1, Skill:    rbf, New Level:  1, True FD Gained: 1.840%, max_strength_increase: 0.0184, max_strength_increase_ratio: 0.0001
+Upgrade: 1 total_strength_gain: 1.0183792
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (1 -> 2), nprop:  0.36, cprop: 0.354, strength_increase: 0.0058, cost:  115, ratio: 0.0001
+Upgrade #:   2, Skill:    rbf, New Level:  2, True FD Gained: 0.570%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0001
+Upgrade: 2 total_strength_gain: 1.0241886950819672
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (2 -> 3), nprop: 0.366, cprop:  0.36, strength_increase: 0.0058, cost:  118, ratio: 0.0
+Upgrade #:   3, Skill:    rbf, New Level:  3, True FD Gained: 0.570%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 3 total_strength_gain: 1.0299981901639343
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (3 -> 4), nprop: 0.372, cprop: 0.366, strength_increase: 0.0058, cost:  120, ratio: 0.0
+Upgrade #:   4, Skill:    rbf, New Level:  4, True FD Gained: 0.560%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 4 total_strength_gain: 1.0358076852459015
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (4 -> 5), nprop: 0.378, cprop: 0.372, strength_increase: 0.0058, cost:  123, ratio: 0.0
+Upgrade #:   5, Skill:    rbf, New Level:  5, True FD Gained: 0.560%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 5 total_strength_gain: 1.0416171803278687
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (5 -> 6), nprop: 0.383, cprop: 0.378, strength_increase: 0.0058, cost:  125, ratio: 0.0
+Upgrade #:   6, Skill:    rbf, New Level:  6, True FD Gained: 0.560%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 6 total_strength_gain: 1.0474266754098358
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (6 -> 7), nprop: 0.389, cprop: 0.383, strength_increase: 0.0058, cost:  228, ratio: 0.0
+Upgrade #:   7, Skill:    rbf, New Level:  7, True FD Gained: 0.550%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 7 total_strength_gain: 1.053236170491803
+skill: zankou (0 -> 1), nprop: 0.122, cprop:  0.11, strength_increase: 0.0121, cost:  475, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (7 -> 8), nprop: 0.395, cprop: 0.389, strength_increase: 0.0058, cost:  230, ratio: 0.0
+Upgrade #:   8, Skill: zankou, New Level:  1, True FD Gained: 1.150%, max_strength_increase: 0.0121, max_strength_increase_ratio: 0.0
+Upgrade: 8 total_strength_gain: 1.065336170491803
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (7 -> 8), nprop: 0.395, cprop: 0.389, strength_increase: 0.0058, cost:  230, ratio: 0.0
+Upgrade #:   9, Skill:    rbf, New Level:  8, True FD Gained: 0.550%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 9 total_strength_gain: 1.0711456655737701
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (8 -> 9), nprop: 0.401, cprop: 0.395, strength_increase: 0.0058, cost:  233, ratio: 0.0
+Upgrade #:  10, Skill:    rbf, New Level:  9, True FD Gained: 0.540%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 10 total_strength_gain: 1.0769551606557373
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (9 -> 19), nprop: 0.407, cprop: 0.401, strength_increase: 0.0523, cost:  600, ratio: 0.0
+Upgrade #:  11, Skill:    rbf, New Level: 19, True FD Gained: 4.850%, max_strength_increase: 0.0523, max_strength_increase_ratio: 0.0
+Upgrade: 11 total_strength_gain: 1.129240616393442
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (1 -> 2), nprop: 0.089, cprop: 0.086, strength_increase: 0.0024, cost:  130, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  12, Skill:  jinqd, New Level:  2, True FD Gained: 0.220%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 12 total_strength_gain: 1.1316749934753874
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (0 -> 1), nprop: 0.088, cprop: 0.079, strength_increase: 0.0087, cost:  475, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (2 -> 3), nprop: 0.091, cprop: 0.089, strength_increase: 0.0024, cost:  135, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  13, Skill:  slice, New Level:  1, True FD Gained: 0.770%, max_strength_increase: 0.0087, max_strength_increase_ratio: 0.0
+Upgrade: 13 total_strength_gain: 1.1403649934753874
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (2 -> 3), nprop: 0.091, cprop: 0.089, strength_increase: 0.0024, cost:  135, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  14, Skill:  jinqd, New Level:  3, True FD Gained: 0.210%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 14 total_strength_gain: 1.142799370557333
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (3 -> 4), nprop: 0.094, cprop: 0.091, strength_increase: 0.0024, cost:  140, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  15, Skill:  jinqd, New Level:  4, True FD Gained: 0.210%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 15 total_strength_gain: 1.1452337476392782
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (0 -> 1), nprop: 0.074, cprop: 0.067, strength_increase: 0.0074, cost:  475, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (4 -> 5), nprop: 0.096, cprop: 0.094, strength_increase: 0.0024, cost:  245, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  16, Skill:  jamal, New Level:  1, True FD Gained: 0.640%, max_strength_increase: 0.0074, max_strength_increase_ratio: 0.0
+Upgrade: 16 total_strength_gain: 1.1526037476392783
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (0 -> 1), nprop: 0.071, cprop: 0.064, strength_increase:  0.007, cost:  475, ratio: 0.0
+skill:  jinqd (4 -> 5), nprop: 0.096, cprop: 0.094, strength_increase: 0.0024, cost:  245, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  17, Skill:     pb, New Level:  1, True FD Gained: 0.610%, max_strength_increase: 0.007, max_strength_increase_ratio: 0.0
+Upgrade: 17 total_strength_gain: 1.1596437476392782
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (4 -> 5), nprop: 0.096, cprop: 0.094, strength_increase: 0.0024, cost:  245, ratio: 0.0
+skill:    rbf (19 -> 29), nprop: 0.465, cprop: 0.459, strength_increase: 0.0523, cost:  975, ratio: 0.0
+Upgrade #:  18, Skill:    rbf, New Level: 29, True FD Gained: 4.510%, max_strength_increase: 0.0523, max_strength_increase_ratio: 0.0
+Upgrade: 18 total_strength_gain: 1.211929203376983
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (4 -> 5), nprop: 0.096, cprop: 0.094, strength_increase: 0.0024, cost:  245, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  19, Skill:  jinqd, New Level:  5, True FD Gained: 0.200%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 19 total_strength_gain: 1.2143635804589283
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (5 -> 6), nprop: 0.099, cprop: 0.096, strength_increase: 0.0024, cost:  250, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  20, Skill:  jinqd, New Level:  6, True FD Gained: 0.200%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 20 total_strength_gain: 1.2167979575408736
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (6 -> 7), nprop: 0.101, cprop: 0.099, strength_increase: 0.0024, cost:  255, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  21, Skill:  jinqd, New Level:  7, True FD Gained: 0.200%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 21 total_strength_gain: 1.2192323346228189
+skill: zankou (1 -> 2), nprop: 0.123, cprop: 0.122, strength_increase: 0.0011, cost:  123, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (7 -> 8), nprop: 0.103, cprop: 0.101, strength_increase: 0.0024, cost:  360, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  22, Skill: zankou, New Level:  2, True FD Gained: 0.090%, max_strength_increase: 0.0011, max_strength_increase_ratio: 0.0
+Upgrade: 22 total_strength_gain: 1.220332334622819
+skill: zankou (2 -> 3), nprop: 0.124, cprop: 0.123, strength_increase: 0.0011, cost:  127, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (7 -> 8), nprop: 0.103, cprop: 0.101, strength_increase: 0.0024, cost:  360, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  23, Skill: zankou, New Level:  3, True FD Gained: 0.090%, max_strength_increase: 0.0011, max_strength_increase_ratio: 0.0
+Upgrade: 23 total_strength_gain: 1.2214323346228189
+skill: zankou (3 -> 4), nprop: 0.125, cprop: 0.124, strength_increase: 0.0011, cost:  130, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (7 -> 8), nprop: 0.103, cprop: 0.101, strength_increase: 0.0024, cost:  360, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  24, Skill: zankou, New Level:  4, True FD Gained: 0.090%, max_strength_increase: 0.0011, max_strength_increase_ratio: 0.0
+Upgrade: 24 total_strength_gain: 1.222532334622819
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (7 -> 8), nprop: 0.103, cprop: 0.101, strength_increase: 0.0024, cost:  360, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  25, Skill:  jinqd, New Level:  8, True FD Gained: 0.200%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 25 total_strength_gain: 1.2249667117047642
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (8 -> 9), nprop: 0.106, cprop: 0.103, strength_increase: 0.0024, cost:  365, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  26, Skill:  jinqd, New Level:  9, True FD Gained: 0.200%, max_strength_increase: 0.0024, max_strength_increase_ratio: 0.0
+Upgrade: 26 total_strength_gain: 1.2274010887867095
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (1 -> 2), nprop: 0.088, cprop: 0.088, strength_increase: 0.0008, cost:  123, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  27, Skill:  slice, New Level:  2, True FD Gained: 0.060%, max_strength_increase: 0.0008, max_strength_increase_ratio: 0.0
+Upgrade: 27 total_strength_gain: 1.2281910887867096
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (2 -> 3), nprop: 0.089, cprop: 0.088, strength_increase: 0.0008, cost:  127, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  28, Skill:  slice, New Level:  3, True FD Gained: 0.060%, max_strength_increase: 0.0008, max_strength_increase_ratio: 0.0
+Upgrade: 28 total_strength_gain: 1.2289810887867096
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (3 -> 4), nprop:  0.09, cprop: 0.089, strength_increase: 0.0008, cost:  130, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  29, Skill:  slice, New Level:  4, True FD Gained: 0.060%, max_strength_increase: 0.0008, max_strength_increase_ratio: 0.0
+Upgrade: 29 total_strength_gain: 1.2297710887867097
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (1 -> 2), nprop: 0.075, cprop: 0.074, strength_increase: 0.0007, cost:  123, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  30, Skill:  jamal, New Level:  2, True FD Gained: 0.050%, max_strength_increase: 0.0007, max_strength_increase_ratio: 0.0
+Upgrade: 30 total_strength_gain: 1.2304410887867097
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (2 -> 3), nprop: 0.076, cprop: 0.075, strength_increase: 0.0007, cost:  127, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  31, Skill:  jamal, New Level:  3, True FD Gained: 0.050%, max_strength_increase: 0.0007, max_strength_increase_ratio: 0.0
+Upgrade: 31 total_strength_gain: 1.2311110887867096
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (3 -> 4), nprop: 0.076, cprop: 0.076, strength_increase: 0.0007, cost:  130, ratio: 0.0
+skill:     pb (1 -> 2), nprop: 0.072, cprop: 0.071, strength_increase: 0.0006, cost:  123, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  32, Skill:     pb, New Level:  2, True FD Gained: 0.050%, max_strength_increase: 0.0006, max_strength_increase_ratio: 0.0
+Upgrade: 32 total_strength_gain: 1.2317510887867096
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (3 -> 4), nprop: 0.076, cprop: 0.076, strength_increase: 0.0007, cost:  130, ratio: 0.0
+skill:     pb (2 -> 3), nprop: 0.072, cprop: 0.072, strength_increase: 0.0006, cost:  127, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  33, Skill:  jamal, New Level:  4, True FD Gained: 0.050%, max_strength_increase: 0.0007, max_strength_increase_ratio: 0.0
+Upgrade: 33 total_strength_gain: 1.2324210887867095
+skill: zankou (4 -> 10), nprop: 0.126, cprop: 0.125, strength_increase: 0.0121, cost:  234, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (2 -> 3), nprop: 0.072, cprop: 0.072, strength_increase: 0.0006, cost:  127, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  34, Skill: zankou, New Level: 10, True FD Gained: 0.980%, max_strength_increase: 0.0121, max_strength_increase_ratio: 0.0
+Upgrade: 34 total_strength_gain: 1.2445210887867095
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (2 -> 3), nprop: 0.072, cprop: 0.072, strength_increase: 0.0006, cost:  127, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  35, Skill:     pb, New Level:  3, True FD Gained: 0.050%, max_strength_increase: 0.0006, max_strength_increase_ratio: 0.0
+Upgrade: 35 total_strength_gain: 1.2451610887867095
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (3 -> 4), nprop: 0.073, cprop: 0.072, strength_increase: 0.0006, cost:  130, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  36, Skill:     pb, New Level:  4, True FD Gained: 0.050%, max_strength_increase: 0.0006, max_strength_increase_ratio: 0.0
+Upgrade: 36 total_strength_gain: 1.2458010887867095
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+skill:    rbf (29 -> 30), nprop: 0.523, cprop: 0.517, strength_increase: 0.0058, cost: 1250, ratio: 0.0
+Upgrade #:  37, Skill:    rbf, New Level: 30, True FD Gained: 0.470%, max_strength_increase: 0.0058, max_strength_increase_ratio: 0.0
+Upgrade: 37 total_strength_gain: 1.2516105838686769
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (9 -> 17), nprop: 0.109, cprop: 0.106, strength_increase: 0.0183, cost: 1200, ratio: 0.0
+Upgrade #:  38, Skill:  jinqd, New Level: 17, True FD Gained: 1.460%, max_strength_increase: 0.0183, max_strength_increase_ratio: 0.0
+Upgrade: 38 total_strength_gain: 1.2698807237754057
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (17 -> 18), nprop: 0.129, cprop: 0.127, strength_increase: 0.0025, cost:  550, ratio: 0.0
+Upgrade #:  39, Skill:  jinqd, New Level: 18, True FD Gained: 0.190%, max_strength_increase: 0.0025, max_strength_increase_ratio: 0.0
+Upgrade: 39 total_strength_gain: 1.2723394446281706
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (18 -> 19), nprop: 0.132, cprop: 0.129, strength_increase: 0.0025, cost:  660, ratio: 0.0
+Upgrade #:  40, Skill:  jinqd, New Level: 19, True FD Gained: 0.190%, max_strength_increase: 0.0025, max_strength_increase_ratio: 0.0
+Upgrade: 40 total_strength_gain: 1.2747981654809355
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (4 -> 10), nprop: 0.091, cprop:  0.09, strength_increase: 0.0087, cost:  234, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (19 -> 26), nprop: 0.137, cprop: 0.132, strength_increase: 0.0177, cost: 1850, ratio: 0.0
+Upgrade #:  41, Skill:  slice, New Level: 10, True FD Gained: 0.680%, max_strength_increase: 0.0087, max_strength_increase_ratio: 0.0
+Upgrade: 41 total_strength_gain: 1.2834881654809356
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (19 -> 26), nprop: 0.137, cprop: 0.132, strength_increase: 0.0177, cost: 1850, ratio: 0.0
+Upgrade #:  42, Skill:  jinqd, New Level: 26, True FD Gained: 1.380%, max_strength_increase: 0.0177, max_strength_increase_ratio: 0.0
+Upgrade: 42 total_strength_gain: 1.301166651023907
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+skill:  jinqd (26 -> 30), nprop: 0.154, cprop: 0.152, strength_increase: 0.0165, cost:  830, ratio: 0.0
+Upgrade #:  43, Skill:  jinqd, New Level: 30, True FD Gained: 1.270%, max_strength_increase: 0.0165, max_strength_increase_ratio: 0.0
+Upgrade: 43 total_strength_gain: 1.3176691784269716
+skill: zankou (10 -> 20), nprop: 0.139, cprop: 0.138, strength_increase: 0.0165, cost:  360, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+Upgrade #:  44, Skill: zankou, New Level: 20, True FD Gained: 1.250%, max_strength_increase: 0.0165, max_strength_increase_ratio: 0.0
+Upgrade: 44 total_strength_gain: 1.3341691784269716
+skill: zankou (20 -> 30), nprop: 0.155, cprop: 0.154, strength_increase:  0.022, cost:  528, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (4 -> 10), nprop: 0.077, cprop: 0.076, strength_increase: 0.0074, cost:  234, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+Upgrade #:  45, Skill:  jamal, New Level: 10, True FD Gained: 0.550%, max_strength_increase: 0.0074, max_strength_increase_ratio: 0.0
+Upgrade: 45 total_strength_gain: 1.3415391784269715
+skill: zankou (20 -> 30), nprop: 0.155, cprop: 0.154, strength_increase:  0.022, cost:  528, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (10 -> 20), nprop: 0.084, cprop: 0.084, strength_increase:   0.01, cost:  360, ratio: 0.0
+skill:     pb (4 -> 10), nprop: 0.074, cprop: 0.073, strength_increase:  0.007, cost:  234, ratio: 0.0
+Upgrade #:  46, Skill:     pb, New Level: 10, True FD Gained: 0.520%, max_strength_increase: 0.007, max_strength_increase_ratio: 0.0
+Upgrade: 46 total_strength_gain: 1.3485791784269714
+skill: zankou (20 -> 30), nprop: 0.155, cprop: 0.154, strength_increase:  0.022, cost:  528, ratio: 0.0
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (10 -> 20), nprop: 0.084, cprop: 0.084, strength_increase:   0.01, cost:  360, ratio: 0.0
+skill:     pb (10 -> 20), nprop: 0.081, cprop:  0.08, strength_increase: 0.0096, cost:  360, ratio: 0.0
+Upgrade #:  47, Skill: zankou, New Level: 30, True FD Gained: 1.630%, max_strength_increase: 0.022, max_strength_increase_ratio: 0.0
+Upgrade: 47 total_strength_gain: 1.3705791784269714
+skill:  slice (10 -> 20), nprop:   0.1, cprop: 0.099, strength_increase: 0.0118, cost:  360, ratio: 0.0
+skill:  jamal (10 -> 20), nprop: 0.084, cprop: 0.084, strength_increase:   0.01, cost:  360, ratio: 0.0
+skill:     pb (10 -> 20), nprop: 0.081, cprop:  0.08, strength_increase: 0.0096, cost:  360, ratio: 0.0
+Upgrade #:  48, Skill:  slice, New Level: 20, True FD Gained: 0.860%, max_strength_increase: 0.0118, max_strength_increase_ratio: 0.0
+Upgrade: 48 total_strength_gain: 1.3824291784269713
+skill:  slice (20 -> 30), nprop: 0.111, cprop: 0.111, strength_increase: 0.0158, cost:  528, ratio: 0.0
+skill:  jamal (10 -> 20), nprop: 0.084, cprop: 0.084, strength_increase:   0.01, cost:  360, ratio: 0.0
+skill:     pb (10 -> 20), nprop: 0.081, cprop:  0.08, strength_increase: 0.0096, cost:  360, ratio: 0.0
+Upgrade #:  49, Skill:  slice, New Level: 30, True FD Gained: 1.140%, max_strength_increase: 0.0158, max_strength_increase_ratio: 0.0
+Upgrade: 49 total_strength_gain: 1.3982291784269714
+skill:  jamal (10 -> 20), nprop: 0.084, cprop: 0.084, strength_increase:   0.01, cost:  360, ratio: 0.0
+skill:     pb (10 -> 20), nprop: 0.081, cprop:  0.08, strength_increase: 0.0096, cost:  360, ratio: 0.0
+Upgrade #:  50, Skill:  jamal, New Level: 20, True FD Gained: 0.720%, max_strength_increase:  0.01, max_strength_increase_ratio: 0.0
+Upgrade: 50 total_strength_gain: 1.4082791784269713
+skill:  jamal (20 -> 30), nprop: 0.094, cprop: 0.094, strength_increase: 0.0134, cost:  528, ratio: 0.0
+skill:     pb (10 -> 20), nprop: 0.081, cprop:  0.08, strength_increase: 0.0096, cost:  360, ratio: 0.0
+Upgrade #:  51, Skill:     pb, New Level: 20, True FD Gained: 0.680%, max_strength_increase: 0.0096, max_strength_increase_ratio: 0.0
+Upgrade: 51 total_strength_gain: 1.4178791784269713
+skill:  jamal (20 -> 30), nprop: 0.094, cprop: 0.094, strength_increase: 0.0134, cost:  528, ratio: 0.0
+skill:     pb (20 -> 30), nprop:  0.09, cprop:  0.09, strength_increase: 0.0128, cost:  528, ratio: 0.0
+Upgrade #:  52, Skill:  jamal, New Level: 30, True FD Gained: 0.950%, max_strength_increase: 0.0134, max_strength_increase_ratio: 0.0
+Upgrade: 52 total_strength_gain: 1.4312791784269714
+skill:     pb (20 -> 30), nprop:  0.09, cprop:  0.09, strength_increase: 0.0128, cost:  528, ratio: 0.0
+Upgrade #:  53, Skill:     pb, New Level: 30, True FD Gained: 0.890%, max_strength_increase: 0.0128, max_strength_increase_ratio: 0.0
+Final Strength (validation if starting from 0): 1.45828
+temp_prop: {'zankou': 0.01418544854452692, 'slice': 0.019302986210685835, 'jamal': 0.045706562050633275, 'pb': 0.062489648315750955, 'jinqd': 0.00443567040557065, 'rbf': 0.0034923173389428456}
